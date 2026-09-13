@@ -8,13 +8,18 @@ We are not on the official three-person team. There is no official fourth chair.
 
 ## Read in this order
 
-1. [COMPANY.md](COMPANY.md) — what we are
-2. [CLOCK.md](CLOCK.md) — Perth night / Pacific day
-3. [DECISIONS.md](DECISIONS.md) — append-only log
-4. [protocol/GATES.md](protocol/GATES.md) — who may touch what
-5. [protocol/HANDOFF.md](protocol/HANDOFF.md) — how work survives a dead tab
-6. [plan/72-HOURS.md](plan/72-HOURS.md) — the three nights
-7. [bots/](bots/) — paste these into Grok Bot
+1. [FRAMEWORK.md](FRAMEWORK.md) — how we run Grok Bot after the official Guides library
+2. [COMPANY.md](COMPANY.md) — what we are
+3. [CLOCK.md](CLOCK.md) — Perth night / Pacific day
+4. [DECISIONS.md](DECISIONS.md) — append-only log
+5. [protocol/GATES.md](protocol/GATES.md) — who may touch what
+6. [protocol/COMPUTER.md](protocol/COMPUTER.md) — shared disk, takeover, Link
+7. [protocol/HANDOFF.md](protocol/HANDOFF.md) — Bot-to-Bot, then human
+8. [plan/72-HOURS.md](plan/72-HOURS.md) — the three nights
+9. [bots/](bots/) — paste Name / Title / Description, then [CHANNEL.md](bots/CHANNEL.md)
+10. [skills/](skills/) then [routines/](routines/) — skill first, routine second
+
+Official playbook: [x.ai/bot/guides](https://x.ai/bot/guides)
 
 ## Seats
 
