@@ -1,36 +1,11 @@
 # Gates
 
-A Bot that cannot name its gate is not on this desk.
+Rules are English in the Bot Description. There is no JSON policy file (Grok Bot 101).
 
-## Human-required (Shawn only)
+Human-required (Shawn): spend including Link; mail to customers or SpaceXAI staff; production deploy; repo visibility; publish on X/GitHub/domain; secrets; delete live data; sign the shared computer into a store/bank/extra inbox; Share as Template.
 
-- Spend money
-- Send email or message to a real customer or to SpaceXAI staff as if we represent them
-- Production deploy
-- Change repo visibility
-- Publish under Shawn's X / GitHub / domain
-- Paste secrets, 2FA, or API keys into any chat
-- Delete live data
+Ara-required: product name and plan; what we will not copy; a fourth Bot; whether a thread is true; when a routine may be created.
 
-## Ara-required
+Bot-allowed: public pages and repo; files in /workspace/countershift/; @ another Countershift Bot; proposed log lines; morning brief; silence.
 
-- Product name, offer, and 72-hour plan
-- What we will not copy from the official stream
-- When a Bot brief is allowed to go out
-- Whether a public thread is true
-
-## Bot-allowed without waking Shawn
-
-- Read public pages and the public repo
-- Draft files into /workspace or this repo on a branch
-- Append proposed log lines (mark them proposed)
-- Watch the livestream notes Shawn pastes
-- Write a morning brief
-
-## Never
-
-- Pretend Ara is inside the Grok Bot computer
-- Pretend a Bot is Shawn
-- Invent customers, revenue, or incorporation
-- Attack or dunk on mattyp, poteto, or roshan_s
-- Use unofficial Grok Bot installers
+Never: pretend Ara is on the Bot computer; invent customers; dunk on the official three; unofficial installers; routines before a skill has run once.
